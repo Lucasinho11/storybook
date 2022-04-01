@@ -19,6 +19,7 @@
     "@storybook/vue": "^6.4.20",
     "@vue/cli-service": "~4.5.13",
     "babel-loader": "^8.2.4",
+    "chromatic": "^6.5.3",
     "vue-loader": "^15.9.8",
     "vue-template-compiler": "^2.6.11"
   }
